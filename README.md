@@ -19,7 +19,7 @@ I first attempted to gather my data from a couple different sources such as the 
 
 
 ### Problem Statement <a name="problem_statement"></a>
-Since flying by air has become a very common means of transportation, the day old question arises "Can we predict the cost of an airplane ticket? ". I decided to do try my best and see if there is any way I can predict the price of an airplane ticket. With a dataset of 600 thousand observations and SK learn's machine learning algorithms this should be a piece of cake. 
+Since flying by air has become a very common means of transportation, the day old question arises "Can we predict the cost of an airplane ticket? ". I decided to do try my best and see if there is any way I can predict the price of an airplane ticket. With a dataset of 600 thousand observations and SK learn's machine learning algorithms. 
 ### Dataset <a name="dataset"></a>
 https://www.kaggle.com/lpisallerl/air-tickets-between-shanghai-and-beijing
 
