@@ -3,7 +3,7 @@
 
 ![Alt Text](https://media.giphy.com/media/Btn42lfKKrOzS/giphy.gif)
 ## Executive Summary
-I love to travel, and I have been on many planes in my life. I thought it would be fun to make a machine learning algorithm that could predict the price of an airplane ticket. I wanted to use data with features that were easy for the customer to "manipulate". There are features such as cabin class, date difference, departure part of day, and day of week etc. I liked using features like these because these are features the customers can "manipulate".
+I love to travel, and I have been on many planes in my life. I thought it would be fun to make a machine learning algorithm that could predict the price of an airplane ticket. I wanted to use data with features that were easy for the customer to "manipulate". There are features such as cabin class, date difference, departure part of day, and day of week etc. I liked using features like these because these are features the customers can "manipulate". This way I could really see how much a person's personal decisions can effect the price of an airplane ticket.
 ## Contents
 1. [Introduction](#introduction)
     - [Problem Statement](#problem_statement)
