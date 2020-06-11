@@ -77,7 +77,7 @@ I used these Machine Learning Algorithms for modeling my data.
 
 ### Results <a name="results"></a>
 
-After running multiple models through an iterative process the model that gave me the best results was an XG Boost. I got an R^2 of .724 which means my model captures 72% of the data needed to explain the price of an airplane ticket. 
+After running multiple models through an iterative process the model that gave me the best results was an XG Boost. I got an R^2 of .724 which means my model captures 72% of the data needed to explain the price of an airplane ticket. This is a satisfactory score in my opinion. Of course there is room for improvements, but a model capturing 72% of the data need is pretty good.
 
 ![Screen Shot 2020-04-15 at 6 55 16 PM](https://user-images.githubusercontent.com/52756457/79400056-b2a9c780-7f4a-11ea-8c97-a2f365996959.png)
 
