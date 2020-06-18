@@ -83,6 +83,6 @@ After running multiple models through an iterative process the model that gave m
 
 To make my model better I have to decrease the MSE and RMSE, and increase the R^2.
 
-I will work on this project in the future, and try my best to make my model better by doing more feature engineering.
+I will work on this project in the future, and try my best to make my model better by doing more feature engineering. I will also try to get better data and see if I can get similiar of better results.
 
 
